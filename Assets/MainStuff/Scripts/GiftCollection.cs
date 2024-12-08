@@ -16,5 +16,16 @@ public class GiftCollection : MonoBehaviour
             //giftText.text = "Gift: " + Gift.ToString();
             Debug.Log(Gift);
             Destroy(other.gameObject);
-        } }
+        }
+        else if (other.transform.tag == "GiftCluster4")
+        {
+            Gift+=4;
+            giftText.text = "Gifts: " + Gift.ToString();
+            //giftText.text = "Gift: " + Gift.ToString();
+            Debug.Log(Gift);
+            Destroy(other.gameObject);
+        }
+
+
+    }
 }
