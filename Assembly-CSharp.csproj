@@ -55,6 +55,7 @@
     <UnityVersion>2023.2.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2023.2.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2023.2.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2023.2.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
@@ -74,6 +75,7 @@
     <Compile Include="Assets\Game\Scripts\MyMenu.cs" />
     <Compile Include="Assets\Game\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\Game\Scripts\ThirdPersonController.cs" />
+    <Compile Include="Assets\Game\Scripts\Restart.cs" />
     <Compile Include="Assets\Unity Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
     <Compile Include="Assets\Unity Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\Game\Scripts\Destroy.cs" />
@@ -94,6 +96,7 @@
     <None Include="Assets\EnviromentEffectsShaders\Shaders\Water.shader" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Free Voxel Christmas Pack\Documentation.txt" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\EnviromentEffectsShaders\Shaders\Moss.shader" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
