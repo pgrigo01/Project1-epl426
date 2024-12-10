@@ -79,6 +79,7 @@
     <Compile Include="Assets\Game\Scripts\Destroy.cs" />
     <Compile Include="Assets\Unity Assets\UnityTechnologies\ParticlePack\Shared\Scripts\SimpleCharacterMotor.cs" />
     <Compile Include="Assets\Game\Scripts\GiftCollection.cs" />
+    <Compile Include="Assets\Game\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Unity Assets\UnityTechnologies\ParticlePack\Shared\Ramps\Runtime\RampAsset.cs" />
     <Compile Include="Assets\Unity Assets\Scripts\MoveCamera.cs" />
     <Compile Include="Assets\Unity Assets\Scripts\Unity3rdPerson\PlayerController.cs" />
