@@ -100,6 +100,7 @@
     <None Include="Assets\Unity Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Prefabs\Readme_Dissolve_Respawn_.txt" />
     <None Include="Assets\Unity Assets\Christmas Scene\Documentation.txt" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\BrokenVector\LowPolyWinterPack\README.txt" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
     <None Include="Assets\Unity Assets\UnityTechnologies\ParticlePack\EffectExamples\Magic Effects\Shaders\Ice.shader" />
     <None Include="Assets\Unity Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Respawn.shader" />
@@ -122,9 +123,11 @@
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\BrokenVector\LowPolyWinterPack\Textures\Color Schemes Readme.txt" />
     <None Include="Assets\EnviromentEffectsShaders\Shaders\Snow.shader" />
     <None Include="Assets\Unity Assets\UnityTechnologies\ParticlePack\EffectExamples\Misc Effects\Shaders\Dissolve.shader" />
     <None Include="Assets\Unity Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\Game\Shaders\SnowfallShader.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
