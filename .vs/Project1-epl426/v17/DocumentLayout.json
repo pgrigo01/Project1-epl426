@@ -1,18 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\",
+  "WorkspaceRootPath": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\Game\\Scripts\\MyMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scenes\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Scenes\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\GiftTagHighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Scripts\\GiftTagHighlighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\GiftCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Scripts\\GiftCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\EnviromentEffectsShaders\\Shaders\\Snow.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EnviromentEffectsShaders\\Shaders\\Snow.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Prefabs\\Gifts\\NewSurfaceShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Prefabs\\Gifts\\NewSurfaceShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Temp\\GeneratedFromGraph-Shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\GeneratedFromGraph-Shader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\MyMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Game\\Scripts\\MyMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainStuff\\Scripts\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\Destroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,35 +49,109 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\Game\\Scripts\\MyMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\MyMenu.cs",
-              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\Game\\Scripts\\MyMenu.cs",
-              "RelativeToolTip": "Assets\\Game\\Scripts\\MyMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Title": "a.cs",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scenes\\a.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scenes\\a.cs",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scenes\\a.cs",
+              "RelativeToolTip": "Assets\\Game\\Scenes\\a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T17:27:10.805Z",
+              "WhenOpened": "2024-12-10T09:43:33.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GiftTagHighlighter.cs",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\GiftTagHighlighter.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\GiftTagHighlighter.cs",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\GiftTagHighlighter.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\GiftTagHighlighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:39:17.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snow.shader",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\EnviromentEffectsShaders\\Shaders\\Snow.shader",
+              "RelativeDocumentMoniker": "Assets\\EnviromentEffectsShaders\\Shaders\\Snow.shader",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\EnviromentEffectsShaders\\Shaders\\Snow.shader",
+              "RelativeToolTip": "Assets\\EnviromentEffectsShaders\\Shaders\\Snow.shader",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T09:10:16.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewSurfaceShader.shader",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Prefabs\\Gifts\\NewSurfaceShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Game\\Prefabs\\Gifts\\NewSurfaceShader.shader",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Prefabs\\Gifts\\NewSurfaceShader.shader",
+              "RelativeToolTip": "Assets\\Game\\Prefabs\\Gifts\\NewSurfaceShader.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T00:49:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneratedFromGraph-Shader.shader",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Temp\\GeneratedFromGraph-Shader.shader",
+              "RelativeDocumentMoniker": "Temp\\GeneratedFromGraph-Shader.shader",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Temp\\GeneratedFromGraph-Shader.shader",
+              "RelativeToolTip": "Temp\\GeneratedFromGraph-Shader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T00:43:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiftCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\GiftCollection.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\GiftCollection.cs",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\GiftCollection.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\GiftCollection.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:53:02.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\MyMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\MyMenu.cs",
+              "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\Project1-epl426\\Assets\\Game\\Scripts\\MyMenu.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\MyMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:27:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BasicRigidBodyPush.cs",
               "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs",
-              "RelativeDocumentMoniker": "Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs",
+              "RelativeDocumentMoniker": "..\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs",
               "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs",
-              "RelativeToolTip": "Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs",
+              "RelativeToolTip": "..\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\BasicRigidBodyPush.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T13:24:49.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Destroy.cs",
               "DocumentMoniker": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\Destroy.cs",
-              "RelativeDocumentMoniker": "Assets\\MainStuff\\Scripts\\Destroy.cs",
+              "RelativeDocumentMoniker": "..\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\Destroy.cs",
               "ToolTip": "C:\\Users\\Panag\\OneDrive\\Desktop\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\Destroy.cs",
-              "RelativeToolTip": "Assets\\MainStuff\\Scripts\\Destroy.cs",
+              "RelativeToolTip": "..\\backup In temprepo\\Project1-epl426\\Assets\\MainStuff\\Scripts\\Destroy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T13:24:28.461Z"
